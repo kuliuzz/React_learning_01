@@ -1,0 +1,27 @@
+{
+  "name": "react_learning_03",
+  "version": "1.0.0",
+  "description": "Kolyo's test app of React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuliuzz/React_learning_01.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Kolyo Peev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuliuzz/React_learning_01/issues"
+  },
+  "homepage": "https://github.com/kuliuzz/React_learning_01#readme",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
